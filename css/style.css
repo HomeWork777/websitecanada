@@ -353,7 +353,8 @@ margin-bottom: 50px;
     color: #ffbcaf;
 }
 .oursociety:hover{
-    color: red;
+    color: green;
+    text-decoration: none;
 }
 
 footer .main-footer{	padding: 20px 0;	background: #252525;}
@@ -505,6 +506,10 @@ h1 {
     margin-bottom: 100px;
 }
 /***********************la page about us *************************/
+.aboutus{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
 .about-para{
     font-size: 25px;
     font-weight: normal;
@@ -529,20 +534,14 @@ h1 {
 .condidature{
     
     margin-top: 30px;
-    border: 5px solid;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 200px;
-    padding-right: 200px;
     margin-bottom: 30px;
-   /****** background-image: url("../images/logo_floue.png") ;*********/
     background-repeat: no-repeat;
     background-size: cover;
     
 }
 .form-control {
     
-    border: 5px solid #ffbcaf !important;
+    border: 1px solid  !important;
     border-radius: 10px;
   }
 

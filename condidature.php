@@ -1,7 +1,7 @@
 <?php $page='career' ?>
 <?php include("config.php");?>
 <?php include("header.php");?>
-<div class="background"></div>
+<!---<div class="background"></div>---->
 <div class="container condidature">
 <form method="post"  enctype="multipart/form-data">
  <div class="form-group">
